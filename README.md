@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @camilomontenegro
 - 👀 I’m interested in programming; game & web development
-- 🌱 I’m currently learning front-end dev skills
-- 💞️ I’m looking to collaborate on small game, web development projects
+- 🌱 I’m currently learning Java, React native, Python.
 - 📫 How to reach me @camilomontenegr0 (Instagram)
 
 <!---
